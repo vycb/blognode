@@ -1,0 +1,6 @@
+blognode
+==============
+
+This is blognode.
+
+
